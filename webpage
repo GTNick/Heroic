@@ -1,8 +1,8 @@
 <html><head>
     <meta charset="utf-8">
     <link rel="canonical" href="/">
-    <title>PocketBoxPE</title>
-    <meta name="description" content="Welcome to pocket box then next best factions server!">
+    <title>Casino</title>
+    <meta name="description" content="Welcome to our casino. You can purchase Coins for our games. If u win the game/machine you get coins back that can be transfered into money!">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1 user-scalable=no">
     <style>
     
@@ -90,7 +90,7 @@ input:focus,
 }
 
 a {
-  color: #FF0000;
+  color: #FFCC00;
 }
 
 .alert {
@@ -1248,19 +1248,16 @@ body {
   <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
     
     <ul class="pure-menu-list">
-<li class="pure-menu-item"><a href="http://firepe.cf" class="pure-menu-link"><b>PocketBoxPE</b></a></li>
+<li class="pure-menu-item"><a href="http://firepe.cf" class="pure-menu-link"><b>Casino</b></a></li>
 
-<li class="pure-menu-item"><a href="http://firepe.cf/play" class="pure-menu-link">Play</a></li>
 <li class="pure-menu-item"><a href="http://firepe.cf/login" class="pure-menu-link">Login</a></li>
-<li class="pure-menu-item"><a href="http://firepe.cf/vote" class="pure-menu-link">Vote</a></li>
 <li class="pure-menu-item"><a href="http://firepe.cf/stats" class="pure-menu-link">Stats</a></li>
-<li class="pure-menu-item"><a href="http://firepe.cf/twitter" class="pure-menu-link">Twitter</a></li>
 
     </ul>
 </div><div class="content">
 
 <div class="paper">
-   <h2 class="content-subhead">PocketBoxPE</h2>
+   <h2 class="content-subhead">Casino</h2>
    <p>Welcome!</p>
 </div>
 </div>
